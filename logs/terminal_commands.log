@@ -1,0 +1,23 @@
+=== Dev Workstation Setup - Terminal Commands Log ===
+Date: 2025-01-15
+User: sua
+System: macOS ARM64
+
+1. Initial Setup
+   - Created folder structure (app, docs, logs, screenshots)
+   - Generated README.md
+   - Initialized Git repository
+   - Connected to GitHub
+
+2. Terminal Navigation Practice
+   - cd .. (parent directory)
+   - cd ~ (home directory)
+   - cd - (previous directory)
+   - pwd (print working directory)
+   - ls (list files)
+
+3. Current Status
+   - Repository: youngling82-create/dev-workstation-setup
+   - Location: logs folder
+   - Task: Recording terminal commands
+
